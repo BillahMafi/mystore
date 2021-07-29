@@ -1,0 +1,40 @@
+/* font awesome cnd link  */
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
+
+/* google fonts cdn link  */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+/* common css setup  */
+
+body {
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+header {
+  background-color: rgba(4, 4, 20, 0.877);
+}
+/* main css start  */
+header {
+  background-color: rgba(4, 4, 20, 0.877);
+}
+small {
+  color: rgb(255, 102, 0);
+}
+
+.img-gray {
+  filter: grayscale(1);
+}
+span {
+  color: orange;
+}
+.fas {
+  color: rgb(255, 115, 0);
+}
+.far {
+  color: rgb(255, 115, 0);
+}
+h6 {
+  color: darkslateblue;
+}
